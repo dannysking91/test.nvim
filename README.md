@@ -1,1 +1,1 @@
-# test.nvim
+# Tester.nvim
